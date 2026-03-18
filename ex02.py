@@ -1,6 +1,6 @@
 # serve para fazer comentários
 
-nome = "Lavínia"
+nome = "Heitor"
 idade = 14
 cidade = "Paranaguá"
-altura = 1.55
+altura = 1.70
