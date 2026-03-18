@@ -1,4 +1,4 @@
-name = "Lavínia"
+name = "Heitor"
 age = 14
 
-print(f"Bem vinda {name}, você tem {age} anos")
+print(f"Bem vindo {name}, você tem {age} anos")
